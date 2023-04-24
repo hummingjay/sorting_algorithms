@@ -17,7 +17,7 @@ void bubble_sort(int *array, size_t size)
 		return;
 	}
 
-	for (i = 0; i < n-1; i++)
+	for (i = 0; i < n - 1; i++)
 	{
 		/* Second loop will avoid it going over bubbled part*/
 		for (j = 0; j  < n - i - 1; j++)
