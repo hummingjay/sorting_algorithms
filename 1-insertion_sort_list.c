@@ -5,6 +5,7 @@
  * integers in ascending order using insertion sort algorithm
  *
  * @list: doubly linked list provided
+ * Return: No return value in void
  */
 void insertion_sort_list(listint_t **list)
 {
